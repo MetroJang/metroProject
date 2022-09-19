@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\12week\12week\bin\Debug\12week.exe.config
+C:\Users\user\source\repos\12week\12week\bin\Debug\12week.exe
+C:\Users\user\source\repos\12week\12week\bin\Debug\12week.pdb
+C:\Users\user\source\repos\12week\12week\obj\Debug\12week.csprojAssemblyReference.cache
+C:\Users\user\source\repos\12week\12week\obj\Debug\_12week.Form1.resources
+C:\Users\user\source\repos\12week\12week\obj\Debug\_12week.Properties.Resources.resources
+C:\Users\user\source\repos\12week\12week\obj\Debug\12week.csproj.GenerateResource.cache
+C:\Users\user\source\repos\12week\12week\obj\Debug\12week.exe
+C:\Users\user\source\repos\12week\12week\obj\Debug\12week.pdb

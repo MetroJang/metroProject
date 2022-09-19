@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Calculator_advanced\Calculator_advanced\obj\Debug\Calculator_advanced.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Calculator_advanced\Calculator_advanced\obj\Debug\Calculator_advanced.Properties.Resources.resources
+C:\Users\user\source\repos\Calculator_advanced\Calculator_advanced\obj\Debug\Calculator_advanced.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Calculator_advanced\Calculator_advanced\bin\Debug\Calculator_advanced.exe.config
+C:\Users\user\source\repos\Calculator_advanced\Calculator_advanced\bin\Debug\Calculator_advanced.exe
+C:\Users\user\source\repos\Calculator_advanced\Calculator_advanced\bin\Debug\Calculator_advanced.pdb
+C:\Users\user\source\repos\Calculator_advanced\Calculator_advanced\obj\Debug\Calculator_advanced.exe
+C:\Users\user\source\repos\Calculator_advanced\Calculator_advanced\obj\Debug\Calculator_advanced.pdb
+C:\Users\user\source\repos\Calculator_advanced\Calculator_advanced\obj\Debug\Calculator_advanced.Form1.resources

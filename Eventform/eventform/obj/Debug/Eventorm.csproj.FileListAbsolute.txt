@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\eventform\eventform\obj\Debug\eventform.Form1.resources
+C:\Users\user\source\repos\eventform\eventform\obj\Debug\eventform.Properties.Resources.resources
+C:\Users\user\source\repos\eventform\eventform\obj\Debug\Eventorm.csproj.GenerateResource.cache
+C:\Users\user\source\repos\eventform\eventform\obj\Debug\eventform.exe
+C:\Users\user\source\repos\eventform\eventform\obj\Debug\eventform.pdb
+C:\Users\user\source\repos\eventform\eventform\bin\Debug\eventform.exe.config
+C:\Users\user\source\repos\eventform\eventform\bin\Debug\eventform.exe
+C:\Users\user\source\repos\eventform\eventform\bin\Debug\eventform.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\10Jucha guaje\10Jucha guaje\bin\Debug\10Jucha guaje.exe.config
+C:\Users\user\source\repos\10Jucha guaje\10Jucha guaje\bin\Debug\10Jucha guaje.exe
+C:\Users\user\source\repos\10Jucha guaje\10Jucha guaje\bin\Debug\10Jucha guaje.pdb
+C:\Users\user\source\repos\10Jucha guaje\10Jucha guaje\obj\Debug\10Jucha guaje.csprojAssemblyReference.cache
+C:\Users\user\source\repos\10Jucha guaje\10Jucha guaje\obj\Debug\_10Jucha_guaje.Form1.resources
+C:\Users\user\source\repos\10Jucha guaje\10Jucha guaje\obj\Debug\_10Jucha_guaje.Properties.Resources.resources
+C:\Users\user\source\repos\10Jucha guaje\10Jucha guaje\obj\Debug\10Jucha guaje.csproj.GenerateResource.cache
+C:\Users\user\source\repos\10Jucha guaje\10Jucha guaje\obj\Debug\10Jucha guaje.exe
+C:\Users\user\source\repos\10Jucha guaje\10Jucha guaje\obj\Debug\10Jucha guaje.pdb
